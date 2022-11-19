@@ -15,6 +15,7 @@ var data = []
 btn1.addEventListener('click', () =>{
     data.push(input1.value)
     data.push(input2.value)
+    alert("Saved!!")
 })
 
 
